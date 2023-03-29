@@ -11,3 +11,10 @@ Artificial intelligence can be used to assess the quality of student essays by a
 ## Deep Learning Models 
 
 Transformers, LSTMs, GRUs, CNNs, and ML models can all be used to understand student behavior in education. Transformers analyze text data, LSTMs and GRUs model behavior over time, CNNs detect visual cues, and ML models identify factors contributing to academic success or failure. By combining these approaches, a comprehensive understanding of student behavior can be gained, allowing for tailored educational interventions to address individual needs.
+
+## Metrics
+
+Since this is a __regression__ problem, we consider metrics that take into account __continuous output variables__ and give their estimates based on the difference between the __actual output__ and __predicted output__. Below are some metrics that are used for this prediction.
+
+* [__Mean Squared Error__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
+* [__Mean Absolute Error__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
