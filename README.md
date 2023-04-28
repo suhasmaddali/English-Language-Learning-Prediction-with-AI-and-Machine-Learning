@@ -16,11 +16,7 @@ __Artificial intelligence__ can be used to assess the quality of student essays 
 
 ## Metrics
 
-Since this is a __regression__ problem, we consider metrics that take into account __continuous output variables__ and give their estimates based on the difference between the __actual output__ and __predicted output__. Below are some metrics that are used for this prediction.
-
-* [__Mean Squared Error__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
-* [__Mean Absolute Error__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
-* [__Root Mean Absolute Error__](https://help.sap.com/docs/SAP_PREDICTIVE_ANALYTICS/41d1a6d4e7574e32b815f1cc87c00f42/5e5198fd4afe4ae5b48fefe0d3161810.html)
+Since this is a __classification__ problem, we consider metrics that take into account __discrete output variables (scores)__ and give their estimates based on the difference between the __actual output__ and __predicted output__. Below are some metrics that are used for this prediction.
 
 ## 👉 Directions to download the repository and run the notebook 
 
