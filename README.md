@@ -6,7 +6,7 @@
 
 __Artificial intelligence__ can be used to assess the quality of student essays by applying NLP techniques to analyze coherence, clarity, and relevance. Topic modeling and sentiment analysis can determine main themes and emotional tone, while machine learning algorithms can be trained on **high-quality** essays to evaluate new ones. AI-based tools can offer feedback and suggestions to help students improve their writing skills, saving educators time and providing consistent evaluations.
 
-<img src = "https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning/blob/Suhas/Images/English%20Language%20Learning%20GitHub%20Image.jpg"/>
+<img src = "https://github.com/suhasmaddali/Images/blob/main/english%20language%20learning%20main%20page.jpg"/>
 
 ## Deep Learning Models 
 
