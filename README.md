@@ -22,7 +22,7 @@ Since this is a __classification__ problem, we consider metrics that take into a
 * [__Precision__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html)
 * [__Recall__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html)
 * [__F1 Score__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)
-* [Quadratic Weighted Kappa (QWK)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cohen_kappa_score.html)
+* [__Quadratic Weighted Kappa (QWK)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cohen_kappa_score.html)
 
 ## 👉 Directions to download the repository and run the notebook 
 
