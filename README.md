@@ -24,6 +24,9 @@ Since this is a __classification__ problem, we consider metrics that take into a
 * [__F1 Score__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)
 * [__Quadratic Weighted Kappa (QWK)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cohen_kappa_score.html)
 
+## Future Scope 
+
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
