@@ -26,7 +26,8 @@ Since this is a __classification__ problem, we consider metrics that take into a
 
 ## Future Scope 
  
-* It would a great idea to implement and use GPT-2 for extracting the text embeddings before scoring the essays as this is leading to good performance. 
+* It would a great idea to implement and use GPT-2 for extracting the text embeddings in the future before scoring the essays as this is leading to good performance. 
+* Instead of fine-tuning transformer models, it is efficient to use the text-embeddings as the performance is quite similar to that of fine-tuning these models from scratch. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
