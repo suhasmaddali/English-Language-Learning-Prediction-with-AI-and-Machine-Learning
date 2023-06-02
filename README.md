@@ -25,7 +25,8 @@ Since this is a __classification__ problem, we consider metrics that take into a
 * [__Quadratic Weighted Kappa (QWK)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cohen_kappa_score.html)
 
 ## Future Scope 
-
+ 
+* It would a great idea to implement and use GPT-2 for extracting the text embeddings before scoring the essays as this is leading to good performance. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
