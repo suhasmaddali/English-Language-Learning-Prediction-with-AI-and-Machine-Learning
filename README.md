@@ -12,7 +12,7 @@ __Artificial intelligence__ can be used to assess the quality of student essays 
 
 * Transformers, LSTMs, GRUs, CNNs, and ML models can all be used to assess the quality of student essays in education.
 * Transformers analyze text data, LSTMs and GRUs model the coherence and relevance of the essay, CNNs detect visual cues in accompanying materials, and ML models identify factors contributing to effective writing.
-* By combining these approaches, a comprehensive evaluation of the overall quality of a student essay can be achieved, allowing educators to provide targeted feedback and improve student writing skills.
+* By combining these approaches, a comprehensive evaluation of the overall quality of a student essay can be achieved, allowing __educators__ to provide targeted feedback and improve student writing skills.
 
 ## Metrics
 
